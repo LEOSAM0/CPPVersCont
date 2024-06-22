@@ -2,6 +2,6 @@
 
 int main()
 {
-	//awful text
-	std::cout << "Hell!\n";
+	//print some text
+	std::cout << "\nHello!\n\nHell!";
 }
