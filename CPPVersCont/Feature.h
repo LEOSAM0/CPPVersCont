@@ -1,6 +1,4 @@
 #pragma once
-<<<<<<< HEAD
-=======
 
 class Feature
 {
@@ -12,4 +10,3 @@ private:
 	int a;
 	float b;
 };
->>>>>>> Feature
