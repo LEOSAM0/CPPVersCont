@@ -7,5 +7,6 @@ public:
 protected:
 
 private:
-
+	int a;
+	float b;
 };
